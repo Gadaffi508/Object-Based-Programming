@@ -1,0 +1,5 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC++\NesneTabanlıProgramlama\Object-based programming\Object-based programming\obj\Debug\net8.0\Object-based programming.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC++\NesneTabanlıProgramlama\Object-based programming\Object-based programming\obj\Debug\net8.0\Object-based programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC++\NesneTabanlıProgramlama\Object-based programming\Object-based programming\obj\Debug\net8.0\Object-based programming.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC++\NesneTabanlıProgramlama\Object-based programming\Object-based programming\obj\Debug\net8.0\Object-based programming.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC++\NesneTabanlıProgramlama\Object-based programming\Object-based programming\obj\Debug\net8.0\Object-based programming.csproj.CoreCompileInputs.cache
