@@ -8,6 +8,8 @@ Bu dosya, soyut sınıfların ve soyut yöntemlerin kullanımını göstermekted
 
 ### Örnek Kod
 
+#### Abstract Örnek
+
 ```csharp Abstarct Örneği
 using System;
 
@@ -40,6 +42,8 @@ class Program
     }
 }
 ```
+#### Constucter Örneği
+
 ```Constucter Örneği
 class Person
 {
@@ -67,6 +71,7 @@ class Program
     }
 }
 ```
+#### Database Örneği
 
 ```Database Örneği
 using System;
