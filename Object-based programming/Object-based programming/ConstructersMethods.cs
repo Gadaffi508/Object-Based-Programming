@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Object_based_programming
 {
+    ProductStok stok = new ProductStok("rsf",5,"milk");
+
     public class ConstructersMethods
     {
 
@@ -19,7 +21,7 @@ namespace Object_based_programming
 
         public ProductStok()
         {
-
+            
         }
         public ProductStok(string ProductType) : this()
         {

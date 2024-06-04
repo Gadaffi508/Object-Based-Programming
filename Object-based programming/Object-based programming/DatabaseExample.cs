@@ -9,7 +9,7 @@ namespace Object_based_programming
     {
         Console.WriteLine("Hello");
 
-        /*var db = new ApplicationDbContext();
+        var db = new ApplicationDbContext();
 
         StudentData s1 = new StudentData();
 
@@ -23,7 +23,7 @@ namespace Object_based_programming
         SqlDataAdapter da = new SqlDataAdapter();
         da.SelectCommand.CommandText =
             ("insert into Student (studentID) values (@)studentID");
-        da.SelectCommand.Parameters.AddWithValue("studentID", "31");*/
+        da.SelectCommand.Parameters.AddWithValue("studentID", "31");
     }
 
 }

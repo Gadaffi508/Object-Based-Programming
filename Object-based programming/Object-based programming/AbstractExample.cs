@@ -12,6 +12,11 @@ namespace Object_based_programming
         //Yani bir sınıf üzerinde bulunan özellikleri kullanarak yeni bir sınıf türetmek istediğimiz zaman,
         //içerisinde bulunan bazı temel yapıları yeniden oluşturmak için override (aşırı yükleme)
         //işlemini uygular ve sınıf yapılarına göre özel bir hale getiririz.
+
+        void Example()
+        {
+
+        }
     }
 
     interface İnterfaceExample

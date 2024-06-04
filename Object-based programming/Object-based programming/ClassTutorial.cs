@@ -68,7 +68,7 @@ namespace Object_based_programming
     #endregion
 
     #region DrivingLicense
-    class DrivingLicence
+    class DrivingLicence //Contructer
     {
         bool isDrivingLicense;
 

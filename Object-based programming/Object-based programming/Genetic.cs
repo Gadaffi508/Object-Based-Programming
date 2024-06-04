@@ -14,6 +14,9 @@ namespace Object_based_programming
     class Game
     {
         public int Score { get; set; }
+
+        public int _score;
+
         public bool Start { get; set; }
         public bool Over { get; set; }
 
@@ -78,6 +81,8 @@ namespace Object_based_programming
     #region Ovveride_and_Virtual
     class Mathematic
     {
+        int a = Aera();
+
         public virtual int Area()
         {
             return 0;
@@ -92,6 +97,7 @@ namespace Object_based_programming
             return 2 * r * r;
         }
     }
+
     #endregion
 
     #region User_Inheritance
